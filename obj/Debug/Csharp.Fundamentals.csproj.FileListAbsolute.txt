@@ -1,0 +1,8 @@
+/Users/katrina/projects/Csharp.Fundamentals/bin/Debug/Csharp.Fundamentals.dll
+/Users/katrina/projects/Csharp.Fundamentals/bin/Debug/Csharp.Fundamentals.pdb
+/Users/katrina/projects/Csharp.Fundamentals/bin/Debug/nunit.framework.dll
+/Users/katrina/projects/Csharp.Fundamentals/bin/Debug/nunit.framework.xml
+/Users/katrina/projects/Csharp.Fundamentals/obj/Debug/Csharp.Fundamentals.csprojResolveAssemblyReference.cache
+/Users/katrina/projects/Csharp.Fundamentals/obj/Debug/Csharp.Fundamentals.csproj.CoreCompileInputs.cache
+/Users/katrina/projects/Csharp.Fundamentals/obj/Debug/Csharp.Fundamentals.dll
+/Users/katrina/projects/Csharp.Fundamentals/obj/Debug/Csharp.Fundamentals.pdb
